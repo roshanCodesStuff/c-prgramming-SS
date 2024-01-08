@@ -1,0 +1,13 @@
+1] WAP to print "HELLO WORLD" on screen
+2] WAP to take two integer number as input 
+   from the user and show the sum of the numbers a s a result
+3] Define PI as the symbolic consant and 
+   take radius as input from th user to calculate the area of a circle 
+4] Take input and store in integer variable  
+   "a" and assign a value to integer "x" after 
+   both "increment prefix" 
+   and "increment postfix" and print the 
+   value of "a" and "x" for both case
+
+FOR LAB REPORT: WRITE ALGORITHM AND FLOWCHART AND THEN WRITE THE CODE FOR EACH
+THE MAKE A BOX FOR THE SCREEN AND MAKE THE OUTPUT
